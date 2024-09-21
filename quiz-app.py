@@ -12,7 +12,7 @@ quiz = [
 # Initialize score
 score = 0
 
-# Function to run the quiz
+# Function to run the quiz.
 def run_quiz():
     global score
     print("Welcome to the Quiz App!")
